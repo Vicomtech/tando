@@ -21,7 +21,7 @@ TANDO is a corpus for training and evaluation of document-level machine translat
 - ISEA (https://www.isea.eus/en/)
 - Ametzagaiña (http://www.ametza.com/)
 
-The TANDO corpus includes both parallel and contrastive datasets, in text format, and covers  different domains (literature, news, subtitles, talks, politics). It can be downloaded via the following link: TBD.
+The TANDO corpus includes both parallel and contrastive datasets, in text format, and covers  different domains (literature, news, subtitles, talks, politics). It can be downloaded via the following link: https://datasets.vicomtech.org/v2-tando/tando-corpus_v1.0.tar.gz
 
 ## Citation
 
