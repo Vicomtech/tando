@@ -13,7 +13,7 @@ This repository contains the TANDO corpus for Document-level Machine Translation
 
 ## Description
 
-TANDO is a corpus for training and evaluation of document-level machine translation models in Basque-Spanish. The corpus was prepared within the ELKARTEK project TANDO (2020-2021: www.tando.eus) by members of the project consortium:
+TANDO is a corpus for training and evaluation of document-level machine translation models in Basque-Spanish and Basque-French. The corpus was prepared within the ELKARTEK project TANDO (2020-2021: www.tando.eus) by members of the project consortium:
 
 - Vicomtech Foundation (https://www.vicomtech.org)
 - University of the Basque Country (UPV/EHU) / IXA taldea (http://ixa.si.ehu.es/)
