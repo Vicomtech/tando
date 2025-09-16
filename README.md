@@ -21,11 +21,17 @@ TANDO is a corpus for training and evaluation of document-level machine translat
 - ISEA (https://www.isea.eus/en/)
 - Ametzagaiña (http://www.ametza.com/)
 
-The TANDO corpus includes both parallel and contrastive datasets, in text format, and covers  different domains (literature, news, subtitles, talks, politics). It can be downloaded via the following link: https://datasets.vicomtech.org/v2-tando/tando-corpus_v1.0.tar.gz
+The TANDO corpus includes both parallel and contrastive datasets, in text format, and covers  different domains (literature, news, subtitles, talks, politics). There currently two versions:
+
+- v1.0: This is the version from Gete et al. (2022). It can be downloaded via the following link: https://opendatasets.vicomtech.org/v2-tando/fdb021ba
+
+- v2.0: This is the version from Gete et al. (2025). It can be downloaded via the following link: https://opendatasets.vicomtech.org/di01-tando-v2/0d02c702
+
+**We recommend using v2.0 for any future work.**
 
 ## Citation
 
-If you use any part of the corpus in your own work, please cite the following paper:
+If you use any part of the corpus in your own work, please cite the following papers:
 ```
 @inproceedings{gete-et-al2022tando-corpus,
   title={TANDO: A Corpus for Document-level Machine Translation},
@@ -37,6 +43,16 @@ If you use any part of the corpus in your own work, please cite the following pa
   year={2022},
   pages = {TBD}
 }
+
+@article{gete2025tando+,
+  title={TANDO+: Corpus and Baselines for Document-level Machine Translation in Basque--Spanish and Basque--French},
+  author={Gete, Harritxu and Etchegoyhen, Thierry and Labaka, Gorka and Corral, Ander and Saralegi, Xabier and Aranberri, Nora and Ponce, David and Santos, Igor Ellakuria and Martin, Maite},
+  journal={Language Resources and Evaluation},
+  pages={1--41},
+  year={2025},
+  publisher={Springer}
+}
+
 ```
 
 ## License
